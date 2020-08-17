@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kryselle-Matienzo_Exercise01", "Kryselle-Matienzo_Exercise01\Kryselle-Matienzo_Exercise01.csproj", "{198C0C9A-AC21-4CB2-BF66-6A07198E36D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kryselle-Matienzo_Exercise02", "Kryselle-Matienzo_Exercise02\Kryselle-Matienzo_Exercise02.csproj", "{CA5A1F4D-814A-4CC6-A1BA-D99FA4912001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{198C0C9A-AC21-4CB2-BF66-6A07198E36D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198C0C9A-AC21-4CB2-BF66-6A07198E36D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198C0C9A-AC21-4CB2-BF66-6A07198E36D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198C0C9A-AC21-4CB2-BF66-6A07198E36D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA5A1F4D-814A-4CC6-A1BA-D99FA4912001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5A1F4D-814A-4CC6-A1BA-D99FA4912001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5A1F4D-814A-4CC6-A1BA-D99FA4912001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5A1F4D-814A-4CC6-A1BA-D99FA4912001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EC49170-6D63-425A-93B8-4342593F10E5}
+	EndGlobalSection
+EndGlobal
